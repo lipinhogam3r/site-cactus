@@ -1,0 +1,4 @@
+amarelo logo: #ca9c03
+verde letras: #207c17
+verde barras: #3afa29
+negrito: font-weight: bold;
